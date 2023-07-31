@@ -82,13 +82,13 @@ System and Organizations Controls (SOC type 1, SOC type 2)
 
 The priority level for each control selected is noted, based on the need for immediate or future implementation.  
 
-![Controls Assessment 1!](/Google-Cybersecurity-Professional-Certificate-Projects/img/Controls%20assessment%201.png)
+![Controls Assessment 1!](/img/Controls%20assessment%201.png)
 
-![Controls Assessment 2!](/Google-Cybersecurity-Professional-Certificate-Projects/img/Controls%20assessment%202.png)
+![Controls Assessment 2!](/img/Controls%20assessment%202.png)
 
-![Controls Assessment 3!](/Google-Cybersecurity-Professional-Certificate-Projects/img/Control%20assessment%203.png)
+![Controls Assessment 3!](/img/Control%20assessment%203.png)
 
-![Controls Assessment 4!](/Google-Cybersecurity-Professional-Certificate-Projects/img/Controls%20assessment%204.png)
+![Controls Assessment 4!](/img/Controls%20assessment%204.png)
 
 ---
 
@@ -98,11 +98,11 @@ The priority level for each control selected is noted, based on the need for imm
 
 The need for each regulation and standard selected is explained.
 
-![Compliance Checklist 1!](/Google-Cybersecurity-Professional-Certificate-Projects/img/Comoliance-checklist-1.png)
+![Compliance Checklist 1!](/img/Comoliance-checklist-1.png)
 
-![Compliance Checklist 2!](/Google-Cybersecurity-Professional-Certificate-Projects/img/Compliance-checklist-2.png)
+![Compliance Checklist 2!](/img/Compliance-checklist-2.png)
 
-![Compliance Checklist 3!](/Google-Cybersecurity-Professional-Certificate-Projects/img/Compliance-checklist-3.png)
+![Compliance Checklist 3!](/img/Compliance-checklist-3.png)
 
 **Step 5 (Communicating the results)**  
 Below is a summary of the security audit conducted for Botium Toys to be communicated to stakeholders:  
