@@ -1,4 +1,4 @@
-Scenario
+# **Scenario**
 
 Botium Toys is a small U.S. business that develops and sells toys. The business has a single physical location. However, its online presence has grown, attracting customers in the U.S. and abroad. Their information technology (IT) department is under increasing pressure to support their online market worldwide.
 
@@ -9,10 +9,10 @@ The IT manager starts by implementing the National Institute of Standards and Te
 Your task is to review the IT manager’s scope, goals, and risk assessment. Then, perform an internal audit to complete a controls assessment and compliance checklist.
 
 
-Solution
-
-Step 1 (Listing the audit goals, scope, and risk assessment):
-Scope:
+## **Solution**  
+---
+**Step 1 (Listing the audit goals, scope, and risk assessment):**
+### Scope: 
 Botium Toys internal IT audit will assess the following:
 - Current user permissions set in the following systems: accounting, end point detection, firewalls, intrusion detection system, security information and event management (SIEM) tool. 
 - Current implemented controls in the following systems: accounting, end point detection, firewalls, intrusion detection system, Security Information and Event Management (SIEM) tool. 
@@ -20,7 +20,7 @@ Botium Toys internal IT audit will assess the following:
 - Ensure current user permissions, controls, procedures, and protocols in place align with necessary compliance requirements. 
 - Ensure current technology is accounted for. Both hardware and system access.
 
-Goals:
+### Goals:
 The goals for Botium Toys’ internal IT audit are to:
 - Adhere to the National Institute of Standards and Technology Cybersecurity Framework (NIST CSF) 
 - Establish a better process for their systems to ensure they are compliant - Fortify system controls 
@@ -57,7 +57,8 @@ On a scale of 1 to 10, the risk score is 8, which is fairly high. This is due to
 **Additional comments**
 
 The likelihood of a lost asset or fines from governing bodies is high because Botium Toys does not have all of the necessary controls in place and is not adhering to required regulations and standards related to keeping customer data private.
-_________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+---
 **Step 2 (Analyzing the audit goals, scope, and risk assessment)**
 
 -What are the biggest risks to the organization?  
@@ -79,6 +80,31 @@ System and Organizations Controls (SOC type 1, SOC type 2)
 
 -Appropriate administrative, technical, and physical controls are selected (marked with an X)
 
-The priority level for each control selected is noted, based on the need for immediate or future implementation.
+The priority level for each control selected is noted, based on the need for immediate or future implementation.  
 
+![Controls Assessment 1!](/Google-Cybersecurity-Professional-Certificate-Projects/img/Controls%20assessment%201.png)
 
+![Controls Assessment 2!](/Google-Cybersecurity-Professional-Certificate-Projects/img/Controls%20assessment%202.png)
+
+![Controls Assessment 3!](/Google-Cybersecurity-Professional-Certificate-Projects/img/Control%20assessment%203.png)
+
+![Controls Assessment 4!](/Google-Cybersecurity-Professional-Certificate-Projects/img/Controls%20assessment%204.png)
+
+---
+
+**Step 4 (Conducting the audit: Compliance checklist)**
+
+-The compliance regulations and standards that Botium Toys needs to adhere to are selected (i.e., related to conducting business in the E.U., accepting online payments, user permission policies)
+
+The need for each regulation and standard selected is explained.
+
+![Compliance Checklist 1!](/Google-Cybersecurity-Professional-Certificate-Projects/img/Comoliance-checklist-1.png)
+
+![Compliance Checklist 2!](/Google-Cybersecurity-Professional-Certificate-Projects/img/Compliance-checklist-2.png)
+
+![Compliance Checklist 3!](/Google-Cybersecurity-Professional-Certificate-Projects/img/Compliance-checklist-3.png)
+
+**Step 5 (Communicating the results)**  
+Below is a summary of the security audit conducted for Botium Toys to be communicated to stakeholders:  
+
+This assessment highlights the urgent need for implementing administrative and technical controls to ensure data safety, compliance, and business continuity, as compared to physical controls like CCTV surveillance and locking cabinets. The controls encompassed in this assessment include those that regulate data access, both internally and externally, to maintain confidentiality, integrity, and availability of information. Compliance with regulatory bodies like SOC type 1, SOC type 2, PCI DSS, and GDPR is crucial for Botium Toys, given its global online business operations. Failure to comply could lead to fines, data breaches, and exploitation by threat actors. Priority should be given to implementing critical controls before addressing other physical controls to further improve its overall security posture.
