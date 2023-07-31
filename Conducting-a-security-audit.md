@@ -67,7 +67,7 @@ Data/Identity theft
 
 
 -Which controls are most essential to implement immediately versus in the future?  
-
+Please refer to the controls assessment list in step 3.
 
 -Which compliance regulations does Botium Toys need to adhere to, to ensure the company keeps customer and vendor data safe, avoids fines, etc.?  
 Payment Card Industry Data Security Standards (PCI DSS)  
@@ -82,13 +82,13 @@ System and Organizations Controls (SOC type 1, SOC type 2)
 
 The priority level for each control selected is noted, based on the need for immediate or future implementation.  
 
-<img src="img/Controls-assesment-1.png" alt="Controls Assessment 1" width="300">
+<img src="img/Controls-assesment-1.png" alt="Controls Assessment 1" width="340">
 
-<img src="img/Controls-assessment-2.png" alt="Controls Assessment 2" width="300">
+<img src="img/Controls-assessment-2.png" alt="Controls Assessment 2" width="340">
 
-<img src="img/Controls-assessment-3.png" alt="Controls Assessment 3" width="300">
+<img src="img/Controls-assessment-3.png" alt="Controls Assessment 3" width="340">
 
-<img src="img/Controls-assessment-4.png" alt="Controls Assessment 4" width="300">
+<img src="img/Controls-assessment-4.png" alt="Controls Assessment 4" width="340">
 
 ---
 
@@ -97,11 +97,12 @@ The priority level for each control selected is noted, based on the need for imm
 -The compliance regulations and standards that Botium Toys needs to adhere to are selected (i.e., related to conducting business in the E.U., accepting online payments, user permission policies)
 
 The need for each regulation and standard selected is explained.
-<img src="img/Compliance-checklist-1.png" alt="Compliance Checklist 1" width="300">
 
-<img src="img/Compliance-checklist-2.png" alt="Compliance Checklist 2" width="300">
+<img src="img/Compliance-checklist-1.png" alt="Compliance Checklist 1" width="330">
 
-<img src="img/Compliance-checklist-3.png" alt="Compliance Checklist 3" width="260">
+<img src="img/Compliance-checklist-2.png" alt="Compliance Checklist 2" width="330">
+
+<img src="img/Compliance-checklist-3.png" alt="Compliance Checklist 3" width="330">
 
 **Step 5 (Communicating the results)**  
 Below is a summary of the security audit conducted for Botium Toys to be communicated to stakeholders:  
