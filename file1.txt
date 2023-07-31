@@ -1,5 +1,9 @@
 This is my change
+<<<<<<< HEAD
 
 
 
 qwertyuiop[]
+=======
+gvcgcgcgg
+>>>>>>> 7308369ad91710514028c98957a431326447fc4d
