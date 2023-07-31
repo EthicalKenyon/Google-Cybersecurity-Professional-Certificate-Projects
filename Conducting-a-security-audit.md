@@ -82,13 +82,13 @@ System and Organizations Controls (SOC type 1, SOC type 2)
 
 The priority level for each control selected is noted, based on the need for immediate or future implementation.  
 
-![Controls Assessment 1!](/img/Controls%20assessment%201.png)
+<img src="img/Controls-assesment-1.png" alt="Controls Assessment 1" width="300">
 
-![Controls Assessment 2!](/img/Controls%20assessment%202.png)
+<img src="img/Controls-assessment-2.png" alt="Controls Assessment 2" width="300">
 
-![Controls Assessment 3!](/img/Control%20assessment%203.png)
+<img src="img/Controls-assessment-3.png" alt="Controls Assessment 3" width="300">
 
-![Controls Assessment 4!](/img/Controls%20assessment%204.png)
+<img src="img/Controls-assessment-4.png" alt="Controls Assessment 4" width="300">
 
 ---
 
@@ -97,12 +97,11 @@ The priority level for each control selected is noted, based on the need for imm
 -The compliance regulations and standards that Botium Toys needs to adhere to are selected (i.e., related to conducting business in the E.U., accepting online payments, user permission policies)
 
 The need for each regulation and standard selected is explained.
+<img src="img/Compliance-checklist-1.png" alt="Compliance Checklist 1" width="300">
 
-![Compliance Checklist 1!](/img/Comoliance-checklist-1.png)
+<img src="img/Compliance-checklist-2.png" alt="Compliance Checklist 2" width="300">
 
-![Compliance Checklist 2!](/img/Compliance-checklist-2.png)
-
-![Compliance Checklist 3!](/img/Compliance-checklist-3.png)
+<img src="img/Compliance-checklist-3.png" alt="Compliance Checklist 3" width="260">
 
 **Step 5 (Communicating the results)**  
 Below is a summary of the security audit conducted for Botium Toys to be communicated to stakeholders:  
