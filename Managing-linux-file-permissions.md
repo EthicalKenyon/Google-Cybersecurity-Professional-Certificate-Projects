@@ -19,7 +19,7 @@ The commands used to check files and directories' details are:
 
 Commands 1, 3, and 4 are used here respectively to explore the permissions of the projects directory and the files it contains.
 
-<img src="img/Linux-file-permisions-imgs/Checking-file-and-directory-details.png" alt="Checking file and directory details" width=850>
+<img src="img/Linux-file-permissions-imgs/Checking-file-and-directory-details.png" alt="Checking file and directory details" width=750>
 
 **Step 2 (Description of the permissions string above):**
 
@@ -36,7 +36,7 @@ For example, the file permissions for `project_r.txt` are `-rw-rw-r--`. The firs
 The organization determined that other shouldn't have write access to any of their files. To
 comply with this, I referred to the file permissions that I previously returned. I determined `project_k.txt` must have the write access removed for other and `project_m.txt` must have read access removed for group.  
 
-<img src="img/Linux-file-permisions-imgs/Changing-file-permissions.png" alt="changing-file-permissions" width=850>  
+<img src="img/Linux-file-permissions-imgs/Changing-file-permissions.png" alt="changing-file-permissions" width=750>  
 
 The `chmod` command changes the permissions on
 files and directories. The first argument indicates what permissions should be changed, and
@@ -46,14 +46,14 @@ the second argument specifies the file or directory. In this example, I removed 
 
 The file `.project_x.txt` is a hidden file that has been archived by the research team and should not be written to by anyone. Therefore, I set the permissions of the file `.project_x.txt` so that both the user and the group can read, but not write to the file.  
 NB:A hidden file starts with a period (`.`).
-<img src="img/Linux-file-permisions-imgs/Changing-file-permissions-on-hidden-files.png" alt="Changing file permissions on hidden files" width=850>
+<img src="img/Linux-file-permissions-imgs/Changing-file-permissions-on-hidden-files.png" alt="Changing file permissions on hidden files" width=750>
 
 Working on the `.project_x.txt` file permissions; I removed write permissions from the user with `u-w`, write permissions from the group with `g-w`, and added read permissions to the group with `g+r`.  
 
 **Step 5 (Changing directory permissions):**
 
 My organization wants only the `researcher2` user to have access to the drafts directory and its contents. (This means that only `researcher2` should have execute privileges).
-<img  src="img/Linux-file-permisions-imgs/Changing-directory-permissions.png" alt="Changing directory permissions" width=850>  
+<img  src="img/Linux-file-permissions-imgs/Changing-directory-permissions.png" alt="Changing directory permissions" width=750>  
 
 I listed the files in the directories and used the `chmod` command to remove execute permissions from group. The `researcher2` user already had execute permissions, so they did not need to be added. I then listed all files and permissions in the projects directory, including hidden files, with the `ls -la` command.
 
