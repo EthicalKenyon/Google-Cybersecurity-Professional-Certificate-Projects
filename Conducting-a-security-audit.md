@@ -88,7 +88,7 @@ The priority level for each control selected is noted, based on the need for imm
 
 <img src="img/Security-audit-imgs/Controls-assessment-3.png" alt="Controls Assessment 3" width="340">
 
-<img src="img/Controls-assessment-4.png" alt="Controls Assessment 4" width="340">
+<img src="img/Security-audit-imgs/Controls-assessment-4.png" alt="Controls Assessment 4" width="340">
 
 ---
 

@@ -30,6 +30,6 @@ As a cybersecurity analyst, you are tasked with using this security event to cre
 ___
 
 
-<img src="img/Incidence-reponse-imgs/Incident-analysis-report-1.png" alt="Incident Analysis Report 1" width=420>
+<img src="img/Incidence-response-imgs/Incident-analysis-report-1.png" alt="Incident Analysis Report 1" width=420>
 
-<img src="img/Incidence-reponse-imgs/Incident-analysis-report-2.png" alt="Incident Analysis Report 2" width=420>
+<img src="img/Incidence-response-imgs/Incident-analysis-report-2.png" alt="Incident Analysis Report 2" width=420>
